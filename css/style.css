@@ -32,7 +32,7 @@ li {
 nav {
     background-color: #fff;
     position: sticky;
-    top: 0;
+    top: 0; 
     padding: 0 85px;
     display: flex;
     align-items: center;
